@@ -1,8 +1,23 @@
-# React + Vite
+# GIF Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This README file provides a brief overview of the GIF Finder App, a simple application developed using reactive programming. With this app, you can easily retrieve GIFs from an API and enjoy a fun and interactive browsing experience.
 
-Currently, two official plugins are available:
+Features:
+Retrieve GIFs from a remote API.
+Explore a wide range of GIFs from various categories.
+A responsive and user-friendly interface for smooth navigation.
+Enjoy a reactive and dynamic browsing experience.
+Getting Started:
+Installation: Ensure you have the necessary dependencies and tools installed.
+Run the App: Start the application to begin browsing and discovering GIFs.
+Usage:
+Open the app.
+Browse categories or search for specific GIFs.
+Enjoy a collection of entertaining GIFs.
+Technologies Used:
+Reactive programming
+API integration
+License:
+This project is available under the [Your License Here] license.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to explore the GIF Finder App and have fun discovering a world of animated entertainment!
